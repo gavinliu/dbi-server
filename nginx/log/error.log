@@ -1,0 +1,1125 @@
+2024/10/20 15:42:33 [notice] 1#1: using the "epoll" event method
+2024/10/20 15:42:33 [notice] 1#1: nginx/1.27.2
+2024/10/20 15:42:33 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/20 15:42:33 [notice] 1#1: OS: Linux 6.10.0-linuxkit
+2024/10/20 15:42:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/20 15:42:33 [notice] 1#1: start worker processes
+2024/10/20 15:42:33 [notice] 1#1: start worker process 21
+2024/10/20 15:42:33 [notice] 1#1: start worker process 22
+2024/10/20 15:42:33 [notice] 1#1: start worker process 23
+2024/10/20 15:42:33 [notice] 1#1: start worker process 24
+2024/10/20 15:42:33 [notice] 1#1: start worker process 25
+2024/10/20 15:42:33 [notice] 1#1: start worker process 26
+2024/10/20 15:42:33 [notice] 1#1: start worker process 27
+2024/10/20 15:42:33 [notice] 1#1: start worker process 28
+2024/10/20 15:42:33 [notice] 1#1: start worker process 29
+2024/10/20 15:42:33 [notice] 1#1: start worker process 30
+2024/10/20 15:42:33 [notice] 1#1: start worker process 31
+2024/10/20 15:42:33 [notice] 1#1: start worker process 32
+2024/10/20 15:42:33 [notice] 1#1: start worker process 33
+2024/10/20 15:42:33 [notice] 1#1: start worker process 34
+2024/10/20 15:42:33 [notice] 1#1: start worker process 35
+2024/10/20 15:42:33 [notice] 1#1: start worker process 36
+2024/10/20 15:42:50 [error] 21#21: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:9002", referrer: "http://127.0.0.1:9002/"
+2024/10/20 15:47:41 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/20 15:47:41 [notice] 22#22: gracefully shutting down
+2024/10/20 15:47:41 [notice] 23#23: gracefully shutting down
+2024/10/20 15:47:41 [notice] 24#24: gracefully shutting down
+2024/10/20 15:47:41 [notice] 21#21: gracefully shutting down
+2024/10/20 15:47:41 [notice] 25#25: gracefully shutting down
+2024/10/20 15:47:41 [notice] 26#26: gracefully shutting down
+2024/10/20 15:47:41 [notice] 27#27: gracefully shutting down
+2024/10/20 15:47:41 [notice] 28#28: gracefully shutting down
+2024/10/20 15:47:41 [notice] 29#29: gracefully shutting down
+2024/10/20 15:47:41 [notice] 30#30: gracefully shutting down
+2024/10/20 15:47:41 [notice] 31#31: gracefully shutting down
+2024/10/20 15:47:41 [notice] 33#33: gracefully shutting down
+2024/10/20 15:47:41 [notice] 32#32: gracefully shutting down
+2024/10/20 15:47:41 [notice] 34#34: gracefully shutting down
+2024/10/20 15:47:41 [notice] 35#35: gracefully shutting down
+2024/10/20 15:47:41 [notice] 36#36: gracefully shutting down
+2024/10/20 15:47:41 [notice] 22#22: exiting
+2024/10/20 15:47:41 [notice] 23#23: exiting
+2024/10/20 15:47:41 [notice] 24#24: exiting
+2024/10/20 15:47:41 [notice] 21#21: exiting
+2024/10/20 15:47:41 [notice] 24#24: exit
+2024/10/20 15:47:41 [notice] 25#25: exiting
+2024/10/20 15:47:41 [notice] 26#26: exiting
+2024/10/20 15:47:41 [notice] 27#27: exiting
+2024/10/20 15:47:41 [notice] 28#28: exiting
+2024/10/20 15:47:41 [notice] 29#29: exiting
+2024/10/20 15:47:41 [notice] 30#30: exiting
+2024/10/20 15:47:41 [notice] 31#31: exiting
+2024/10/20 15:47:41 [notice] 33#33: exiting
+2024/10/20 15:47:41 [notice] 32#32: exiting
+2024/10/20 15:47:41 [notice] 34#34: exiting
+2024/10/20 15:47:41 [notice] 32#32: exit
+2024/10/20 15:47:41 [notice] 35#35: exiting
+2024/10/20 15:47:41 [notice] 36#36: exiting
+2024/10/20 15:47:41 [notice] 22#22: exit
+2024/10/20 15:47:41 [notice] 23#23: exit
+2024/10/20 15:47:41 [notice] 21#21: exit
+2024/10/20 15:47:41 [notice] 25#25: exit
+2024/10/20 15:47:41 [notice] 26#26: exit
+2024/10/20 15:47:41 [notice] 27#27: exit
+2024/10/20 15:47:41 [notice] 28#28: exit
+2024/10/20 15:47:41 [notice] 29#29: exit
+2024/10/20 15:47:41 [notice] 30#30: exit
+2024/10/20 15:47:41 [notice] 31#31: exit
+2024/10/20 15:47:41 [notice] 33#33: exit
+2024/10/20 15:47:41 [notice] 34#34: exit
+2024/10/20 15:47:41 [notice] 35#35: exit
+2024/10/20 15:47:41 [notice] 36#36: exit
+2024/10/20 15:47:41 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2024/10/20 15:47:41 [notice] 1#1: worker process 22 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: worker process 24 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: worker process 27 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: worker process 29 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: worker process 32 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: worker process 35 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 15:47:41 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/10/20 15:47:41 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/10/20 15:47:41 [notice] 1#1: worker process 21 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: worker process 25 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: worker process 34 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: worker process 36 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 15:47:41 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2024/10/20 15:47:41 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/10/20 15:47:41 [notice] 1#1: worker process 23 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: worker process 26 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: worker process 30 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: worker process 33 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 15:47:41 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2024/10/20 15:47:41 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/10/20 15:47:41 [notice] 1#1: worker process 28 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: worker process 31 exited with code 0
+2024/10/20 15:47:41 [notice] 1#1: exit
+2024/10/20 15:47:42 [notice] 1#1: using the "epoll" event method
+2024/10/20 15:47:42 [notice] 1#1: nginx/1.27.2
+2024/10/20 15:47:42 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/20 15:47:42 [notice] 1#1: OS: Linux 6.10.0-linuxkit
+2024/10/20 15:47:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/20 15:47:42 [notice] 1#1: start worker processes
+2024/10/20 15:47:42 [notice] 1#1: start worker process 22
+2024/10/20 15:47:42 [notice] 1#1: start worker process 23
+2024/10/20 15:47:42 [notice] 1#1: start worker process 24
+2024/10/20 15:47:42 [notice] 1#1: start worker process 25
+2024/10/20 15:47:42 [notice] 1#1: start worker process 26
+2024/10/20 15:47:42 [notice] 1#1: start worker process 27
+2024/10/20 15:47:42 [notice] 1#1: start worker process 28
+2024/10/20 15:47:42 [notice] 1#1: start worker process 29
+2024/10/20 15:47:42 [notice] 1#1: start worker process 30
+2024/10/20 15:47:42 [notice] 1#1: start worker process 31
+2024/10/20 15:47:42 [notice] 1#1: start worker process 32
+2024/10/20 15:47:42 [notice] 1#1: start worker process 33
+2024/10/20 15:47:42 [notice] 1#1: start worker process 34
+2024/10/20 15:47:42 [notice] 1#1: start worker process 35
+2024/10/20 15:47:42 [notice] 1#1: start worker process 36
+2024/10/20 15:47:42 [notice] 1#1: start worker process 37
+2024/10/20 15:48:01 [error] 22#22: *1 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:48:02 [error] 22#22: *1 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:50:29 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/20 15:50:29 [notice] 23#23: gracefully shutting down
+2024/10/20 15:50:29 [notice] 24#24: gracefully shutting down
+2024/10/20 15:50:29 [notice] 25#25: gracefully shutting down
+2024/10/20 15:50:29 [notice] 26#26: gracefully shutting down
+2024/10/20 15:50:29 [notice] 22#22: gracefully shutting down
+2024/10/20 15:50:29 [notice] 27#27: gracefully shutting down
+2024/10/20 15:50:29 [notice] 28#28: gracefully shutting down
+2024/10/20 15:50:29 [notice] 29#29: gracefully shutting down
+2024/10/20 15:50:29 [notice] 31#31: gracefully shutting down
+2024/10/20 15:50:29 [notice] 32#32: gracefully shutting down
+2024/10/20 15:50:29 [notice] 33#33: gracefully shutting down
+2024/10/20 15:50:29 [notice] 33#33: exiting
+2024/10/20 15:50:29 [notice] 30#30: gracefully shutting down
+2024/10/20 15:50:29 [notice] 34#34: gracefully shutting down
+2024/10/20 15:50:29 [notice] 34#34: exiting
+2024/10/20 15:50:29 [notice] 35#35: gracefully shutting down
+2024/10/20 15:50:29 [notice] 36#36: gracefully shutting down
+2024/10/20 15:50:29 [notice] 36#36: exiting
+2024/10/20 15:50:29 [notice] 37#37: gracefully shutting down
+2024/10/20 15:50:29 [notice] 23#23: exiting
+2024/10/20 15:50:29 [notice] 24#24: exiting
+2024/10/20 15:50:29 [notice] 25#25: exiting
+2024/10/20 15:50:29 [notice] 26#26: exiting
+2024/10/20 15:50:29 [notice] 22#22: exiting
+2024/10/20 15:50:29 [notice] 27#27: exiting
+2024/10/20 15:50:29 [notice] 28#28: exiting
+2024/10/20 15:50:29 [notice] 29#29: exiting
+2024/10/20 15:50:29 [notice] 31#31: exiting
+2024/10/20 15:50:29 [notice] 32#32: exiting
+2024/10/20 15:50:29 [notice] 33#33: exit
+2024/10/20 15:50:29 [notice] 30#30: exiting
+2024/10/20 15:50:29 [notice] 34#34: exit
+2024/10/20 15:50:29 [notice] 35#35: exiting
+2024/10/20 15:50:29 [notice] 36#36: exit
+2024/10/20 15:50:29 [notice] 37#37: exiting
+2024/10/20 15:50:29 [notice] 23#23: exit
+2024/10/20 15:50:29 [notice] 24#24: exit
+2024/10/20 15:50:29 [notice] 25#25: exit
+2024/10/20 15:50:29 [notice] 26#26: exit
+2024/10/20 15:50:29 [notice] 22#22: exit
+2024/10/20 15:50:29 [notice] 27#27: exit
+2024/10/20 15:50:29 [notice] 28#28: exit
+2024/10/20 15:50:29 [notice] 29#29: exit
+2024/10/20 15:50:29 [notice] 31#31: exit
+2024/10/20 15:50:29 [notice] 32#32: exit
+2024/10/20 15:50:29 [notice] 30#30: exit
+2024/10/20 15:50:29 [notice] 35#35: exit
+2024/10/20 15:50:29 [notice] 37#37: exit
+2024/10/20 15:50:29 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/10/20 15:50:29 [notice] 1#1: worker process 22 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 26 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 30 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 34 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 15:50:29 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2024/10/20 15:50:29 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2024/10/20 15:50:29 [notice] 1#1: worker process 23 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 24 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 25 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 27 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 28 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 29 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 31 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 32 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 33 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 35 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 36 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: worker process 37 exited with code 0
+2024/10/20 15:50:29 [notice] 1#1: exit
+2024/10/20 15:50:30 [notice] 1#1: using the "epoll" event method
+2024/10/20 15:50:30 [notice] 1#1: nginx/1.27.2
+2024/10/20 15:50:30 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/20 15:50:30 [notice] 1#1: OS: Linux 6.10.0-linuxkit
+2024/10/20 15:50:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/20 15:50:30 [notice] 1#1: start worker processes
+2024/10/20 15:50:30 [notice] 1#1: start worker process 22
+2024/10/20 15:50:30 [notice] 1#1: start worker process 23
+2024/10/20 15:50:30 [notice] 1#1: start worker process 24
+2024/10/20 15:50:30 [notice] 1#1: start worker process 25
+2024/10/20 15:50:30 [notice] 1#1: start worker process 26
+2024/10/20 15:50:30 [notice] 1#1: start worker process 27
+2024/10/20 15:50:30 [notice] 1#1: start worker process 28
+2024/10/20 15:50:30 [notice] 1#1: start worker process 29
+2024/10/20 15:50:30 [notice] 1#1: start worker process 30
+2024/10/20 15:50:30 [notice] 1#1: start worker process 31
+2024/10/20 15:50:30 [notice] 1#1: start worker process 32
+2024/10/20 15:50:30 [notice] 1#1: start worker process 33
+2024/10/20 15:50:30 [notice] 1#1: start worker process 34
+2024/10/20 15:50:30 [notice] 1#1: start worker process 35
+2024/10/20 15:50:30 [notice] 1#1: start worker process 36
+2024/10/20 15:50:30 [notice] 1#1: start worker process 37
+2024/10/20 15:50:36 [error] 22#22: *1 directory index of "/usr/share/nginx/html/Nintendo/Switch/" is forbidden, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:50:36 [error] 22#22: *1 directory index of "/usr/share/nginx/html/Nintendo/Switch/" is forbidden, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:50:37 [error] 22#22: *1 directory index of "/usr/share/nginx/html/Nintendo/Switch/" is forbidden, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:50:37 [error] 22#22: *1 directory index of "/usr/share/nginx/html/Nintendo/Switch/" is forbidden, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:50:40 [error] 22#22: *1 directory index of "/usr/share/nginx/html/Nintendo/Switch/" is forbidden, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:50:40 [error] 22#22: *1 directory index of "/usr/share/nginx/html/Nintendo/Switch/" is forbidden, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:56:22 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/20 15:56:22 [notice] 24#24: gracefully shutting down
+2024/10/20 15:56:22 [notice] 37#37: gracefully shutting down
+2024/10/20 15:56:22 [notice] 23#23: gracefully shutting down
+2024/10/20 15:56:22 [notice] 23#23: exiting
+2024/10/20 15:56:22 [notice] 25#25: gracefully shutting down
+2024/10/20 15:56:22 [notice] 26#26: gracefully shutting down
+2024/10/20 15:56:22 [notice] 27#27: gracefully shutting down
+2024/10/20 15:56:22 [notice] 28#28: gracefully shutting down
+2024/10/20 15:56:22 [notice] 22#22: gracefully shutting down
+2024/10/20 15:56:22 [notice] 22#22: exiting
+2024/10/20 15:56:22 [notice] 29#29: gracefully shutting down
+2024/10/20 15:56:22 [notice] 30#30: gracefully shutting down
+2024/10/20 15:56:22 [notice] 31#31: gracefully shutting down
+2024/10/20 15:56:22 [notice] 31#31: exiting
+2024/10/20 15:56:22 [notice] 32#32: gracefully shutting down
+2024/10/20 15:56:22 [notice] 34#34: gracefully shutting down
+2024/10/20 15:56:22 [notice] 34#34: exiting
+2024/10/20 15:56:22 [notice] 33#33: gracefully shutting down
+2024/10/20 15:56:22 [notice] 35#35: gracefully shutting down
+2024/10/20 15:56:22 [notice] 35#35: exiting
+2024/10/20 15:56:22 [notice] 36#36: gracefully shutting down
+2024/10/20 15:56:22 [notice] 24#24: exiting
+2024/10/20 15:56:22 [notice] 37#37: exiting
+2024/10/20 15:56:22 [notice] 23#23: exit
+2024/10/20 15:56:22 [notice] 25#25: exiting
+2024/10/20 15:56:22 [notice] 26#26: exiting
+2024/10/20 15:56:22 [notice] 27#27: exiting
+2024/10/20 15:56:22 [notice] 28#28: exiting
+2024/10/20 15:56:22 [notice] 22#22: exit
+2024/10/20 15:56:22 [notice] 29#29: exiting
+2024/10/20 15:56:22 [notice] 30#30: exiting
+2024/10/20 15:56:22 [notice] 31#31: exit
+2024/10/20 15:56:22 [notice] 32#32: exiting
+2024/10/20 15:56:22 [notice] 34#34: exit
+2024/10/20 15:56:22 [notice] 33#33: exiting
+2024/10/20 15:56:22 [notice] 35#35: exit
+2024/10/20 15:56:22 [notice] 36#36: exiting
+2024/10/20 15:56:22 [notice] 24#24: exit
+2024/10/20 15:56:22 [notice] 37#37: exit
+2024/10/20 15:56:22 [notice] 25#25: exit
+2024/10/20 15:56:22 [notice] 26#26: exit
+2024/10/20 15:56:22 [notice] 27#27: exit
+2024/10/20 15:56:22 [notice] 28#28: exit
+2024/10/20 15:56:22 [notice] 29#29: exit
+2024/10/20 15:56:22 [notice] 30#30: exit
+2024/10/20 15:56:22 [notice] 32#32: exit
+2024/10/20 15:56:22 [notice] 33#33: exit
+2024/10/20 15:56:22 [notice] 36#36: exit
+2024/10/20 15:56:22 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2024/10/20 15:56:22 [notice] 1#1: worker process 22 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: worker process 23 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: worker process 35 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: worker process 37 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 15:56:22 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2024/10/20 15:56:22 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2024/10/20 15:56:22 [notice] 1#1: worker process 27 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: worker process 24 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: worker process 26 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: worker process 28 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: worker process 29 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: worker process 31 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 15:56:22 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/10/20 15:56:22 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2024/10/20 15:56:22 [notice] 1#1: worker process 25 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: worker process 32 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: worker process 33 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: worker process 34 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: worker process 36 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 15:56:22 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2024/10/20 15:56:22 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/10/20 15:56:22 [notice] 1#1: worker process 30 exited with code 0
+2024/10/20 15:56:22 [notice] 1#1: exit
+2024/10/20 15:56:23 [notice] 1#1: using the "epoll" event method
+2024/10/20 15:56:23 [notice] 1#1: nginx/1.27.2
+2024/10/20 15:56:23 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/20 15:56:23 [notice] 1#1: OS: Linux 6.10.0-linuxkit
+2024/10/20 15:56:23 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/20 15:56:23 [notice] 1#1: start worker processes
+2024/10/20 15:56:23 [notice] 1#1: start worker process 22
+2024/10/20 15:56:23 [notice] 1#1: start worker process 23
+2024/10/20 15:56:23 [notice] 1#1: start worker process 24
+2024/10/20 15:56:23 [notice] 1#1: start worker process 25
+2024/10/20 15:56:23 [notice] 1#1: start worker process 26
+2024/10/20 15:56:23 [notice] 1#1: start worker process 27
+2024/10/20 15:56:23 [notice] 1#1: start worker process 28
+2024/10/20 15:56:23 [notice] 1#1: start worker process 29
+2024/10/20 15:56:23 [notice] 1#1: start worker process 30
+2024/10/20 15:56:23 [notice] 1#1: start worker process 31
+2024/10/20 15:56:23 [notice] 1#1: start worker process 32
+2024/10/20 15:56:23 [notice] 1#1: start worker process 33
+2024/10/20 15:56:23 [notice] 1#1: start worker process 34
+2024/10/20 15:56:23 [notice] 1#1: start worker process 35
+2024/10/20 15:56:23 [notice] 1#1: start worker process 36
+2024/10/20 15:56:23 [notice] 1#1: start worker process 37
+2024/10/20 15:56:26 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:56:28 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:56:28 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:56:35 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:56:35 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:56:35 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:56:36 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:56:36 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:56:48 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:58:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/20 15:58:12 [notice] 23#23: gracefully shutting down
+2024/10/20 15:58:12 [notice] 36#36: gracefully shutting down
+2024/10/20 15:58:12 [notice] 24#24: gracefully shutting down
+2024/10/20 15:58:12 [notice] 27#27: gracefully shutting down
+2024/10/20 15:58:12 [notice] 22#22: gracefully shutting down
+2024/10/20 15:58:12 [notice] 25#25: gracefully shutting down
+2024/10/20 15:58:12 [notice] 26#26: gracefully shutting down
+2024/10/20 15:58:12 [notice] 28#28: gracefully shutting down
+2024/10/20 15:58:12 [notice] 30#30: gracefully shutting down
+2024/10/20 15:58:12 [notice] 31#31: gracefully shutting down
+2024/10/20 15:58:12 [notice] 31#31: exiting
+2024/10/20 15:58:12 [notice] 29#29: gracefully shutting down
+2024/10/20 15:58:12 [notice] 32#32: gracefully shutting down
+2024/10/20 15:58:12 [notice] 33#33: gracefully shutting down
+2024/10/20 15:58:12 [notice] 33#33: exiting
+2024/10/20 15:58:12 [notice] 34#34: gracefully shutting down
+2024/10/20 15:58:12 [notice] 35#35: gracefully shutting down
+2024/10/20 15:58:12 [notice] 35#35: exiting
+2024/10/20 15:58:12 [notice] 37#37: gracefully shutting down
+2024/10/20 15:58:12 [notice] 23#23: exiting
+2024/10/20 15:58:12 [notice] 36#36: exiting
+2024/10/20 15:58:12 [notice] 24#24: exiting
+2024/10/20 15:58:12 [notice] 27#27: exiting
+2024/10/20 15:58:12 [notice] 22#22: exiting
+2024/10/20 15:58:12 [notice] 25#25: exiting
+2024/10/20 15:58:12 [notice] 26#26: exiting
+2024/10/20 15:58:12 [notice] 28#28: exiting
+2024/10/20 15:58:12 [notice] 30#30: exiting
+2024/10/20 15:58:12 [notice] 31#31: exit
+2024/10/20 15:58:12 [notice] 29#29: exiting
+2024/10/20 15:58:12 [notice] 32#32: exiting
+2024/10/20 15:58:12 [notice] 33#33: exit
+2024/10/20 15:58:12 [notice] 34#34: exiting
+2024/10/20 15:58:12 [notice] 35#35: exit
+2024/10/20 15:58:12 [notice] 37#37: exiting
+2024/10/20 15:58:12 [notice] 23#23: exit
+2024/10/20 15:58:12 [notice] 36#36: exit
+2024/10/20 15:58:12 [notice] 24#24: exit
+2024/10/20 15:58:12 [notice] 27#27: exit
+2024/10/20 15:58:12 [notice] 22#22: exit
+2024/10/20 15:58:12 [notice] 25#25: exit
+2024/10/20 15:58:12 [notice] 26#26: exit
+2024/10/20 15:58:12 [notice] 28#28: exit
+2024/10/20 15:58:12 [notice] 30#30: exit
+2024/10/20 15:58:12 [notice] 29#29: exit
+2024/10/20 15:58:12 [notice] 32#32: exit
+2024/10/20 15:58:12 [notice] 34#34: exit
+2024/10/20 15:58:12 [notice] 37#37: exit
+2024/10/20 15:58:12 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/10/20 15:58:12 [notice] 1#1: worker process 31 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 15:58:12 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/10/20 15:58:12 [notice] 1#1: worker process 26 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: worker process 28 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: worker process 30 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 15:58:12 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2024/10/20 15:58:12 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/10/20 15:58:12 [notice] 1#1: worker process 22 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: worker process 23 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: worker process 24 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: worker process 25 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: worker process 32 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: worker process 33 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: worker process 35 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: worker process 36 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: worker process 37 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 15:58:12 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2024/10/20 15:58:12 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/10/20 15:58:12 [notice] 1#1: worker process 29 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 15:58:12 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2024/10/20 15:58:12 [notice] 1#1: worker process 27 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: worker process 34 exited with code 0
+2024/10/20 15:58:12 [notice] 1#1: exit
+2024/10/20 15:58:13 [notice] 1#1: using the "epoll" event method
+2024/10/20 15:58:13 [notice] 1#1: nginx/1.27.2
+2024/10/20 15:58:13 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/20 15:58:13 [notice] 1#1: OS: Linux 6.10.0-linuxkit
+2024/10/20 15:58:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/20 15:58:13 [notice] 1#1: start worker processes
+2024/10/20 15:58:13 [notice] 1#1: start worker process 22
+2024/10/20 15:58:13 [notice] 1#1: start worker process 23
+2024/10/20 15:58:13 [notice] 1#1: start worker process 24
+2024/10/20 15:58:13 [notice] 1#1: start worker process 25
+2024/10/20 15:58:13 [notice] 1#1: start worker process 26
+2024/10/20 15:58:13 [notice] 1#1: start worker process 27
+2024/10/20 15:58:13 [notice] 1#1: start worker process 28
+2024/10/20 15:58:13 [notice] 1#1: start worker process 29
+2024/10/20 15:58:13 [notice] 1#1: start worker process 30
+2024/10/20 15:58:13 [notice] 1#1: start worker process 31
+2024/10/20 15:58:13 [notice] 1#1: start worker process 32
+2024/10/20 15:58:13 [notice] 1#1: start worker process 33
+2024/10/20 15:58:13 [notice] 1#1: start worker process 34
+2024/10/20 15:58:13 [notice] 1#1: start worker process 35
+2024/10/20 15:58:13 [notice] 1#1: start worker process 36
+2024/10/20 15:58:13 [notice] 1#1: start worker process 37
+2024/10/20 15:58:17 [error] 22#22: *1 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:58:17 [error] 22#22: *1 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 15:58:31 [error] 23#23: *2 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "192.168.31.55:9002"
+2024/10/20 15:58:31 [error] 23#23: *2 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.31.55:9002", referrer: "http://192.168.31.55:9002/Nintendo/Switch/"
+2024/10/20 15:58:32 [error] 23#23: *2 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "192.168.31.55:9002"
+2024/10/20 15:58:33 [error] 23#23: *2 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "192.168.31.55:9002"
+2024/10/20 15:58:33 [error] 23#23: *2 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "192.168.31.55:9002"
+2024/10/20 15:58:33 [error] 23#23: *2 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "192.168.31.55:9002"
+2024/10/20 15:59:53 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/20 15:59:53 [notice] 23#23: gracefully shutting down
+2024/10/20 15:59:53 [notice] 29#29: gracefully shutting down
+2024/10/20 15:59:53 [notice] 24#24: gracefully shutting down
+2024/10/20 15:59:53 [notice] 24#24: exiting
+2024/10/20 15:59:53 [notice] 26#26: gracefully shutting down
+2024/10/20 15:59:53 [notice] 25#25: gracefully shutting down
+2024/10/20 15:59:53 [notice] 22#22: gracefully shutting down
+2024/10/20 15:59:53 [notice] 22#22: exiting
+2024/10/20 15:59:53 [notice] 30#30: gracefully shutting down
+2024/10/20 15:59:53 [notice] 30#30: exiting
+2024/10/20 15:59:53 [notice] 31#31: gracefully shutting down
+2024/10/20 15:59:53 [notice] 31#31: exiting
+2024/10/20 15:59:53 [notice] 32#32: gracefully shutting down
+2024/10/20 15:59:53 [notice] 32#32: exiting
+2024/10/20 15:59:53 [notice] 27#27: gracefully shutting down
+2024/10/20 15:59:53 [notice] 27#27: exiting
+2024/10/20 15:59:53 [notice] 35#35: gracefully shutting down
+2024/10/20 15:59:53 [notice] 35#35: exiting
+2024/10/20 15:59:53 [notice] 28#28: gracefully shutting down
+2024/10/20 15:59:53 [notice] 28#28: exiting
+2024/10/20 15:59:53 [notice] 36#36: gracefully shutting down
+2024/10/20 15:59:53 [notice] 36#36: exiting
+2024/10/20 15:59:53 [notice] 37#37: gracefully shutting down
+2024/10/20 15:59:53 [notice] 37#37: exiting
+2024/10/20 15:59:53 [notice] 34#34: gracefully shutting down
+2024/10/20 15:59:53 [notice] 33#33: gracefully shutting down
+2024/10/20 15:59:53 [notice] 33#33: exiting
+2024/10/20 15:59:53 [notice] 23#23: exiting
+2024/10/20 15:59:53 [notice] 29#29: exiting
+2024/10/20 15:59:53 [notice] 24#24: exit
+2024/10/20 15:59:53 [notice] 26#26: exiting
+2024/10/20 15:59:53 [notice] 25#25: exiting
+2024/10/20 15:59:53 [notice] 22#22: exit
+2024/10/20 15:59:53 [notice] 30#30: exit
+2024/10/20 15:59:53 [notice] 31#31: exit
+2024/10/20 15:59:53 [notice] 32#32: exit
+2024/10/20 15:59:53 [notice] 27#27: exit
+2024/10/20 15:59:53 [notice] 35#35: exit
+2024/10/20 15:59:53 [notice] 28#28: exit
+2024/10/20 15:59:53 [notice] 36#36: exit
+2024/10/20 15:59:53 [notice] 37#37: exit
+2024/10/20 15:59:53 [notice] 34#34: exiting
+2024/10/20 15:59:53 [notice] 33#33: exit
+2024/10/20 15:59:53 [notice] 23#23: exit
+2024/10/20 15:59:53 [notice] 29#29: exit
+2024/10/20 15:59:53 [notice] 26#26: exit
+2024/10/20 15:59:53 [notice] 25#25: exit
+2024/10/20 15:59:53 [notice] 34#34: exit
+2024/10/20 15:59:53 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/10/20 15:59:53 [notice] 1#1: worker process 22 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 24 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 25 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 26 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 28 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 29 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 30 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 31 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 32 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 33 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 34 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 35 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 36 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 15:59:53 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/10/20 15:59:53 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2024/10/20 15:59:53 [notice] 1#1: worker process 23 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 27 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: worker process 37 exited with code 0
+2024/10/20 15:59:53 [notice] 1#1: exit
+2024/10/20 15:59:56 [notice] 1#1: using the "epoll" event method
+2024/10/20 15:59:56 [notice] 1#1: nginx/1.27.2
+2024/10/20 15:59:56 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/20 15:59:56 [notice] 1#1: OS: Linux 6.10.0-linuxkit
+2024/10/20 15:59:56 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/20 15:59:56 [notice] 1#1: start worker processes
+2024/10/20 15:59:56 [notice] 1#1: start worker process 22
+2024/10/20 15:59:56 [notice] 1#1: start worker process 23
+2024/10/20 15:59:56 [notice] 1#1: start worker process 24
+2024/10/20 15:59:56 [notice] 1#1: start worker process 25
+2024/10/20 15:59:56 [notice] 1#1: start worker process 26
+2024/10/20 15:59:56 [notice] 1#1: start worker process 27
+2024/10/20 15:59:56 [notice] 1#1: start worker process 28
+2024/10/20 15:59:56 [notice] 1#1: start worker process 29
+2024/10/20 15:59:56 [notice] 1#1: start worker process 30
+2024/10/20 15:59:56 [notice] 1#1: start worker process 31
+2024/10/20 15:59:56 [notice] 1#1: start worker process 32
+2024/10/20 15:59:56 [notice] 1#1: start worker process 33
+2024/10/20 15:59:56 [notice] 1#1: start worker process 34
+2024/10/20 15:59:56 [notice] 1#1: start worker process 35
+2024/10/20 15:59:56 [notice] 1#1: start worker process 36
+2024/10/20 15:59:56 [notice] 1#1: start worker process 37
+2024/10/20 16:00:00 [error] 22#22: *1 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "192.168.31.55:9002"
+2024/10/20 16:00:00 [error] 22#22: *1 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "192.168.31.55:9002"
+2024/10/20 16:00:01 [error] 22#22: *1 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "192.168.31.55:9002"
+2024/10/20 16:00:01 [error] 22#22: *1 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "192.168.31.55:9002"
+2024/10/20 16:00:09 [error] 22#22: *1 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "192.168.31.55:9002"
+2024/10/20 16:00:09 [error] 22#22: *1 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "192.168.31.55:9002"
+2024/10/20 16:00:09 [error] 22#22: *1 access forbidden by rule, client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "192.168.31.55:9002"
+2024/10/20 16:00:56 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/20 16:00:56 [notice] 23#23: gracefully shutting down
+2024/10/20 16:00:56 [notice] 37#37: gracefully shutting down
+2024/10/20 16:00:56 [notice] 24#24: gracefully shutting down
+2024/10/20 16:00:56 [notice] 22#22: gracefully shutting down
+2024/10/20 16:00:56 [notice] 25#25: gracefully shutting down
+2024/10/20 16:00:56 [notice] 26#26: gracefully shutting down
+2024/10/20 16:00:56 [notice] 28#28: gracefully shutting down
+2024/10/20 16:00:56 [notice] 29#29: gracefully shutting down
+2024/10/20 16:00:56 [notice] 27#27: gracefully shutting down
+2024/10/20 16:00:56 [notice] 30#30: gracefully shutting down
+2024/10/20 16:00:56 [notice] 31#31: gracefully shutting down
+2024/10/20 16:00:56 [notice] 32#32: gracefully shutting down
+2024/10/20 16:00:56 [notice] 33#33: gracefully shutting down
+2024/10/20 16:00:56 [notice] 33#33: exiting
+2024/10/20 16:00:56 [notice] 34#34: gracefully shutting down
+2024/10/20 16:00:56 [notice] 35#35: gracefully shutting down
+2024/10/20 16:00:56 [notice] 36#36: gracefully shutting down
+2024/10/20 16:00:56 [notice] 23#23: exiting
+2024/10/20 16:00:56 [notice] 37#37: exiting
+2024/10/20 16:00:56 [notice] 24#24: exiting
+2024/10/20 16:00:56 [notice] 22#22: exiting
+2024/10/20 16:00:56 [notice] 25#25: exiting
+2024/10/20 16:00:56 [notice] 26#26: exiting
+2024/10/20 16:00:56 [notice] 28#28: exiting
+2024/10/20 16:00:56 [notice] 29#29: exiting
+2024/10/20 16:00:56 [notice] 27#27: exiting
+2024/10/20 16:00:56 [notice] 30#30: exiting
+2024/10/20 16:00:56 [notice] 31#31: exiting
+2024/10/20 16:00:56 [notice] 32#32: exiting
+2024/10/20 16:00:56 [notice] 33#33: exit
+2024/10/20 16:00:56 [notice] 34#34: exiting
+2024/10/20 16:00:56 [notice] 35#35: exiting
+2024/10/20 16:00:56 [notice] 36#36: exiting
+2024/10/20 16:00:56 [notice] 23#23: exit
+2024/10/20 16:00:56 [notice] 37#37: exit
+2024/10/20 16:00:56 [notice] 24#24: exit
+2024/10/20 16:00:56 [notice] 22#22: exit
+2024/10/20 16:00:56 [notice] 25#25: exit
+2024/10/20 16:00:56 [notice] 26#26: exit
+2024/10/20 16:00:56 [notice] 28#28: exit
+2024/10/20 16:00:56 [notice] 29#29: exit
+2024/10/20 16:00:56 [notice] 27#27: exit
+2024/10/20 16:00:56 [notice] 30#30: exit
+2024/10/20 16:00:56 [notice] 31#31: exit
+2024/10/20 16:00:56 [notice] 32#32: exit
+2024/10/20 16:00:56 [notice] 34#34: exit
+2024/10/20 16:00:56 [notice] 35#35: exit
+2024/10/20 16:00:56 [notice] 36#36: exit
+2024/10/20 16:00:57 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2024/10/20 16:00:57 [notice] 1#1: worker process 24 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 23 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 25 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 26 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 29 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 30 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 31 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 32 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 33 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 37 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:00:57 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2024/10/20 16:00:57 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/10/20 16:00:57 [notice] 1#1: worker process 27 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 28 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 36 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:00:57 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/10/20 16:00:57 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/10/20 16:00:57 [notice] 1#1: worker process 22 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 34 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: worker process 35 exited with code 0
+2024/10/20 16:00:57 [notice] 1#1: exit
+2024/10/20 16:00:58 [notice] 1#1: using the "epoll" event method
+2024/10/20 16:00:58 [notice] 1#1: nginx/1.27.2
+2024/10/20 16:00:58 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/20 16:00:58 [notice] 1#1: OS: Linux 6.10.0-linuxkit
+2024/10/20 16:00:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/20 16:00:58 [notice] 1#1: start worker processes
+2024/10/20 16:00:58 [notice] 1#1: start worker process 22
+2024/10/20 16:00:58 [notice] 1#1: start worker process 23
+2024/10/20 16:00:58 [notice] 1#1: start worker process 24
+2024/10/20 16:00:58 [notice] 1#1: start worker process 25
+2024/10/20 16:00:58 [notice] 1#1: start worker process 26
+2024/10/20 16:00:58 [notice] 1#1: start worker process 27
+2024/10/20 16:00:58 [notice] 1#1: start worker process 28
+2024/10/20 16:00:58 [notice] 1#1: start worker process 29
+2024/10/20 16:00:58 [notice] 1#1: start worker process 30
+2024/10/20 16:00:58 [notice] 1#1: start worker process 31
+2024/10/20 16:00:58 [notice] 1#1: start worker process 32
+2024/10/20 16:00:58 [notice] 1#1: start worker process 33
+2024/10/20 16:00:58 [notice] 1#1: start worker process 34
+2024/10/20 16:00:58 [notice] 1#1: start worker process 35
+2024/10/20 16:00:58 [notice] 1#1: start worker process 36
+2024/10/20 16:00:58 [notice] 1#1: start worker process 37
+2024/10/20 16:01:14 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/20 16:01:14 [notice] 22#22: gracefully shutting down
+2024/10/20 16:01:14 [notice] 35#35: gracefully shutting down
+2024/10/20 16:01:14 [notice] 24#24: gracefully shutting down
+2024/10/20 16:01:14 [notice] 25#25: gracefully shutting down
+2024/10/20 16:01:14 [notice] 25#25: exiting
+2024/10/20 16:01:14 [notice] 26#26: gracefully shutting down
+2024/10/20 16:01:14 [notice] 23#23: gracefully shutting down
+2024/10/20 16:01:14 [notice] 27#27: gracefully shutting down
+2024/10/20 16:01:14 [notice] 27#27: exiting
+2024/10/20 16:01:14 [notice] 28#28: gracefully shutting down
+2024/10/20 16:01:14 [notice] 29#29: gracefully shutting down
+2024/10/20 16:01:14 [notice] 31#31: gracefully shutting down
+2024/10/20 16:01:14 [notice] 32#32: gracefully shutting down
+2024/10/20 16:01:14 [notice] 32#32: exiting
+2024/10/20 16:01:14 [notice] 33#33: gracefully shutting down
+2024/10/20 16:01:14 [notice] 33#33: exiting
+2024/10/20 16:01:14 [notice] 34#34: gracefully shutting down
+2024/10/20 16:01:14 [notice] 30#30: gracefully shutting down
+2024/10/20 16:01:14 [notice] 36#36: gracefully shutting down
+2024/10/20 16:01:14 [notice] 22#22: exiting
+2024/10/20 16:01:14 [notice] 37#37: gracefully shutting down
+2024/10/20 16:01:14 [notice] 35#35: exiting
+2024/10/20 16:01:14 [notice] 24#24: exiting
+2024/10/20 16:01:14 [notice] 25#25: exit
+2024/10/20 16:01:14 [notice] 24#24: exit
+2024/10/20 16:01:14 [notice] 26#26: exiting
+2024/10/20 16:01:14 [notice] 23#23: exiting
+2024/10/20 16:01:14 [notice] 27#27: exit
+2024/10/20 16:01:14 [notice] 28#28: exiting
+2024/10/20 16:01:14 [notice] 29#29: exiting
+2024/10/20 16:01:14 [notice] 31#31: exiting
+2024/10/20 16:01:14 [notice] 32#32: exit
+2024/10/20 16:01:14 [notice] 33#33: exit
+2024/10/20 16:01:14 [notice] 34#34: exiting
+2024/10/20 16:01:14 [notice] 30#30: exiting
+2024/10/20 16:01:14 [notice] 36#36: exiting
+2024/10/20 16:01:14 [notice] 22#22: exit
+2024/10/20 16:01:14 [notice] 37#37: exiting
+2024/10/20 16:01:14 [notice] 35#35: exit
+2024/10/20 16:01:14 [notice] 26#26: exit
+2024/10/20 16:01:14 [notice] 23#23: exit
+2024/10/20 16:01:14 [notice] 28#28: exit
+2024/10/20 16:01:14 [notice] 29#29: exit
+2024/10/20 16:01:14 [notice] 31#31: exit
+2024/10/20 16:01:14 [notice] 34#34: exit
+2024/10/20 16:01:14 [notice] 30#30: exit
+2024/10/20 16:01:14 [notice] 36#36: exit
+2024/10/20 16:01:14 [notice] 37#37: exit
+2024/10/20 16:01:14 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/10/20 16:01:14 [notice] 1#1: worker process 23 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: worker process 22 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: worker process 24 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: worker process 25 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: worker process 27 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: worker process 29 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: worker process 33 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: worker process 34 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: worker process 35 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: worker process 36 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:01:14 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2024/10/20 16:01:14 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/10/20 16:01:14 [notice] 1#1: worker process 30 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:01:14 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/10/20 16:01:14 [notice] 1#1: worker process 26 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: worker process 28 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: worker process 31 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: worker process 37 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:01:14 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2024/10/20 16:01:14 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2024/10/20 16:01:14 [notice] 1#1: worker process 32 exited with code 0
+2024/10/20 16:01:14 [notice] 1#1: exit
+2024/10/20 16:01:15 [notice] 1#1: using the "epoll" event method
+2024/10/20 16:01:15 [notice] 1#1: nginx/1.27.2
+2024/10/20 16:01:15 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/20 16:01:15 [notice] 1#1: OS: Linux 6.10.0-linuxkit
+2024/10/20 16:01:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/20 16:01:15 [notice] 1#1: start worker processes
+2024/10/20 16:01:15 [notice] 1#1: start worker process 22
+2024/10/20 16:01:15 [notice] 1#1: start worker process 23
+2024/10/20 16:01:15 [notice] 1#1: start worker process 24
+2024/10/20 16:01:15 [notice] 1#1: start worker process 25
+2024/10/20 16:01:15 [notice] 1#1: start worker process 26
+2024/10/20 16:01:15 [notice] 1#1: start worker process 27
+2024/10/20 16:01:15 [notice] 1#1: start worker process 28
+2024/10/20 16:01:15 [notice] 1#1: start worker process 29
+2024/10/20 16:01:15 [notice] 1#1: start worker process 30
+2024/10/20 16:01:15 [notice] 1#1: start worker process 31
+2024/10/20 16:01:15 [notice] 1#1: start worker process 32
+2024/10/20 16:01:15 [notice] 1#1: start worker process 33
+2024/10/20 16:01:15 [notice] 1#1: start worker process 34
+2024/10/20 16:01:15 [notice] 1#1: start worker process 35
+2024/10/20 16:01:15 [notice] 1#1: start worker process 36
+2024/10/20 16:01:15 [notice] 1#1: start worker process 37
+2024/10/20 16:04:00 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/20 16:04:00 [notice] 22#22: gracefully shutting down
+2024/10/20 16:04:00 [notice] 23#23: gracefully shutting down
+2024/10/20 16:04:00 [notice] 25#25: gracefully shutting down
+2024/10/20 16:04:00 [notice] 24#24: gracefully shutting down
+2024/10/20 16:04:00 [notice] 26#26: gracefully shutting down
+2024/10/20 16:04:00 [notice] 27#27: gracefully shutting down
+2024/10/20 16:04:00 [notice] 28#28: gracefully shutting down
+2024/10/20 16:04:00 [notice] 28#28: exiting
+2024/10/20 16:04:00 [notice] 29#29: gracefully shutting down
+2024/10/20 16:04:00 [notice] 29#29: exiting
+2024/10/20 16:04:00 [notice] 30#30: gracefully shutting down
+2024/10/20 16:04:00 [notice] 32#32: gracefully shutting down
+2024/10/20 16:04:00 [notice] 32#32: exiting
+2024/10/20 16:04:00 [notice] 31#31: gracefully shutting down
+2024/10/20 16:04:00 [notice] 33#33: gracefully shutting down
+2024/10/20 16:04:00 [notice] 34#34: gracefully shutting down
+2024/10/20 16:04:00 [notice] 35#35: gracefully shutting down
+2024/10/20 16:04:00 [notice] 35#35: exiting
+2024/10/20 16:04:00 [notice] 36#36: gracefully shutting down
+2024/10/20 16:04:00 [notice] 37#37: gracefully shutting down
+2024/10/20 16:04:00 [notice] 22#22: exiting
+2024/10/20 16:04:00 [notice] 23#23: exiting
+2024/10/20 16:04:00 [notice] 25#25: exiting
+2024/10/20 16:04:00 [notice] 24#24: exiting
+2024/10/20 16:04:00 [notice] 26#26: exiting
+2024/10/20 16:04:00 [notice] 27#27: exiting
+2024/10/20 16:04:00 [notice] 26#26: exit
+2024/10/20 16:04:00 [notice] 28#28: exit
+2024/10/20 16:04:00 [notice] 29#29: exit
+2024/10/20 16:04:00 [notice] 30#30: exiting
+2024/10/20 16:04:00 [notice] 30#30: exit
+2024/10/20 16:04:00 [notice] 32#32: exit
+2024/10/20 16:04:00 [notice] 31#31: exiting
+2024/10/20 16:04:00 [notice] 33#33: exiting
+2024/10/20 16:04:00 [notice] 34#34: exiting
+2024/10/20 16:04:00 [notice] 35#35: exit
+2024/10/20 16:04:00 [notice] 36#36: exiting
+2024/10/20 16:04:00 [notice] 37#37: exiting
+2024/10/20 16:04:00 [notice] 22#22: exit
+2024/10/20 16:04:00 [notice] 23#23: exit
+2024/10/20 16:04:00 [notice] 25#25: exit
+2024/10/20 16:04:00 [notice] 24#24: exit
+2024/10/20 16:04:00 [notice] 27#27: exit
+2024/10/20 16:04:00 [notice] 31#31: exit
+2024/10/20 16:04:00 [notice] 33#33: exit
+2024/10/20 16:04:00 [notice] 34#34: exit
+2024/10/20 16:04:00 [notice] 36#36: exit
+2024/10/20 16:04:00 [notice] 37#37: exit
+2024/10/20 16:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/10/20 16:04:00 [notice] 1#1: worker process 22 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 23 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 28 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 30 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/10/20 16:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2024/10/20 16:04:00 [notice] 1#1: worker process 26 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 27 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 24 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 29 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2024/10/20 16:04:00 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2024/10/20 16:04:00 [notice] 1#1: worker process 25 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 31 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 32 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 33 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 34 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 35 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 36 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: worker process 37 exited with code 0
+2024/10/20 16:04:00 [notice] 1#1: exit
+2024/10/20 16:04:01 [notice] 1#1: using the "epoll" event method
+2024/10/20 16:04:01 [notice] 1#1: nginx/1.27.2
+2024/10/20 16:04:01 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/20 16:04:01 [notice] 1#1: OS: Linux 6.10.0-linuxkit
+2024/10/20 16:04:01 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/20 16:04:01 [notice] 1#1: start worker processes
+2024/10/20 16:04:01 [notice] 1#1: start worker process 22
+2024/10/20 16:04:01 [notice] 1#1: start worker process 23
+2024/10/20 16:04:01 [notice] 1#1: start worker process 24
+2024/10/20 16:04:01 [notice] 1#1: start worker process 25
+2024/10/20 16:04:01 [notice] 1#1: start worker process 26
+2024/10/20 16:04:01 [notice] 1#1: start worker process 27
+2024/10/20 16:04:01 [notice] 1#1: start worker process 28
+2024/10/20 16:04:01 [notice] 1#1: start worker process 29
+2024/10/20 16:04:01 [notice] 1#1: start worker process 30
+2024/10/20 16:04:01 [notice] 1#1: start worker process 31
+2024/10/20 16:04:01 [notice] 1#1: start worker process 32
+2024/10/20 16:04:01 [notice] 1#1: start worker process 33
+2024/10/20 16:04:01 [notice] 1#1: start worker process 34
+2024/10/20 16:04:01 [notice] 1#1: start worker process 35
+2024/10/20 16:04:01 [notice] 1#1: start worker process 36
+2024/10/20 16:04:01 [notice] 1#1: start worker process 37
+2024/10/20 16:04:06 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:04:07 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:04:17 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:04:18 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:04:18 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:04:18 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:04:24 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:04:25 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:04:25 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:04:25 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:06:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/20 16:06:03 [notice] 23#23: gracefully shutting down
+2024/10/20 16:06:03 [notice] 37#37: gracefully shutting down
+2024/10/20 16:06:03 [notice] 24#24: gracefully shutting down
+2024/10/20 16:06:03 [notice] 25#25: gracefully shutting down
+2024/10/20 16:06:03 [notice] 26#26: gracefully shutting down
+2024/10/20 16:06:03 [notice] 27#27: gracefully shutting down
+2024/10/20 16:06:03 [notice] 27#27: exiting
+2024/10/20 16:06:03 [notice] 22#22: gracefully shutting down
+2024/10/20 16:06:03 [notice] 22#22: exiting
+2024/10/20 16:06:03 [notice] 28#28: gracefully shutting down
+2024/10/20 16:06:03 [notice] 29#29: gracefully shutting down
+2024/10/20 16:06:03 [notice] 30#30: gracefully shutting down
+2024/10/20 16:06:03 [notice] 31#31: gracefully shutting down
+2024/10/20 16:06:03 [notice] 31#31: exiting
+2024/10/20 16:06:03 [notice] 32#32: gracefully shutting down
+2024/10/20 16:06:03 [notice] 32#32: exiting
+2024/10/20 16:06:03 [notice] 33#33: gracefully shutting down
+2024/10/20 16:06:03 [notice] 33#33: exiting
+2024/10/20 16:06:03 [notice] 34#34: gracefully shutting down
+2024/10/20 16:06:03 [notice] 35#35: gracefully shutting down
+2024/10/20 16:06:03 [notice] 35#35: exiting
+2024/10/20 16:06:03 [notice] 36#36: gracefully shutting down
+2024/10/20 16:06:03 [notice] 23#23: exiting
+2024/10/20 16:06:03 [notice] 37#37: exiting
+2024/10/20 16:06:03 [notice] 24#24: exiting
+2024/10/20 16:06:03 [notice] 25#25: exiting
+2024/10/20 16:06:03 [notice] 26#26: exiting
+2024/10/20 16:06:03 [notice] 27#27: exit
+2024/10/20 16:06:03 [notice] 22#22: exit
+2024/10/20 16:06:03 [notice] 28#28: exiting
+2024/10/20 16:06:03 [notice] 29#29: exiting
+2024/10/20 16:06:03 [notice] 30#30: exiting
+2024/10/20 16:06:03 [notice] 31#31: exit
+2024/10/20 16:06:03 [notice] 32#32: exit
+2024/10/20 16:06:03 [notice] 33#33: exit
+2024/10/20 16:06:03 [notice] 34#34: exiting
+2024/10/20 16:06:03 [notice] 35#35: exit
+2024/10/20 16:06:03 [notice] 36#36: exiting
+2024/10/20 16:06:03 [notice] 23#23: exit
+2024/10/20 16:06:03 [notice] 37#37: exit
+2024/10/20 16:06:03 [notice] 24#24: exit
+2024/10/20 16:06:03 [notice] 25#25: exit
+2024/10/20 16:06:03 [notice] 26#26: exit
+2024/10/20 16:06:03 [notice] 28#28: exit
+2024/10/20 16:06:03 [notice] 29#29: exit
+2024/10/20 16:06:03 [notice] 30#30: exit
+2024/10/20 16:06:03 [notice] 34#34: exit
+2024/10/20 16:06:03 [notice] 36#36: exit
+2024/10/20 16:06:03 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2024/10/20 16:06:03 [notice] 1#1: worker process 22 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: worker process 27 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:06:03 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2024/10/20 16:06:03 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/10/20 16:06:03 [notice] 1#1: worker process 24 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: worker process 25 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: worker process 23 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: worker process 26 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: worker process 29 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: worker process 31 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: worker process 32 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: worker process 33 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: worker process 35 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:06:03 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2024/10/20 16:06:03 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2024/10/20 16:06:03 [notice] 1#1: worker process 30 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: worker process 28 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: worker process 34 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: worker process 37 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:06:03 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2024/10/20 16:06:03 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/10/20 16:06:03 [notice] 1#1: worker process 36 exited with code 0
+2024/10/20 16:06:03 [notice] 1#1: exit
+2024/10/20 16:06:05 [notice] 1#1: using the "epoll" event method
+2024/10/20 16:06:05 [notice] 1#1: nginx/1.27.2
+2024/10/20 16:06:05 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/20 16:06:05 [notice] 1#1: OS: Linux 6.10.0-linuxkit
+2024/10/20 16:06:05 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/20 16:06:05 [notice] 1#1: start worker processes
+2024/10/20 16:06:05 [notice] 1#1: start worker process 22
+2024/10/20 16:06:05 [notice] 1#1: start worker process 23
+2024/10/20 16:06:05 [notice] 1#1: start worker process 24
+2024/10/20 16:06:05 [notice] 1#1: start worker process 25
+2024/10/20 16:06:05 [notice] 1#1: start worker process 26
+2024/10/20 16:06:05 [notice] 1#1: start worker process 27
+2024/10/20 16:06:05 [notice] 1#1: start worker process 28
+2024/10/20 16:06:05 [notice] 1#1: start worker process 29
+2024/10/20 16:06:05 [notice] 1#1: start worker process 30
+2024/10/20 16:06:05 [notice] 1#1: start worker process 31
+2024/10/20 16:06:05 [notice] 1#1: start worker process 32
+2024/10/20 16:06:05 [notice] 1#1: start worker process 33
+2024/10/20 16:06:05 [notice] 1#1: start worker process 34
+2024/10/20 16:06:05 [notice] 1#1: start worker process 35
+2024/10/20 16:06:05 [notice] 1#1: start worker process 36
+2024/10/20 16:06:05 [notice] 1#1: start worker process 37
+2024/10/20 16:10:06 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/20 16:10:06 [notice] 22#22: gracefully shutting down
+2024/10/20 16:10:06 [notice] 36#36: gracefully shutting down
+2024/10/20 16:10:06 [notice] 23#23: gracefully shutting down
+2024/10/20 16:10:06 [notice] 23#23: exiting
+2024/10/20 16:10:06 [notice] 24#24: gracefully shutting down
+2024/10/20 16:10:06 [notice] 25#25: gracefully shutting down
+2024/10/20 16:10:06 [notice] 26#26: gracefully shutting down
+2024/10/20 16:10:06 [notice] 27#27: gracefully shutting down
+2024/10/20 16:10:06 [notice] 28#28: gracefully shutting down
+2024/10/20 16:10:06 [notice] 29#29: gracefully shutting down
+2024/10/20 16:10:06 [notice] 33#33: gracefully shutting down
+2024/10/20 16:10:06 [notice] 33#33: exiting
+2024/10/20 16:10:06 [notice] 32#32: gracefully shutting down
+2024/10/20 16:10:06 [notice] 32#32: exiting
+2024/10/20 16:10:06 [notice] 30#30: gracefully shutting down
+2024/10/20 16:10:06 [notice] 31#31: gracefully shutting down
+2024/10/20 16:10:06 [notice] 31#31: exiting
+2024/10/20 16:10:06 [notice] 34#34: gracefully shutting down
+2024/10/20 16:10:06 [notice] 34#34: exiting
+2024/10/20 16:10:06 [notice] 35#35: gracefully shutting down
+2024/10/20 16:10:06 [notice] 37#37: gracefully shutting down
+2024/10/20 16:10:06 [notice] 22#22: exiting
+2024/10/20 16:10:06 [notice] 36#36: exiting
+2024/10/20 16:10:06 [notice] 23#23: exit
+2024/10/20 16:10:06 [notice] 24#24: exiting
+2024/10/20 16:10:06 [notice] 25#25: exiting
+2024/10/20 16:10:06 [notice] 26#26: exiting
+2024/10/20 16:10:06 [notice] 27#27: exiting
+2024/10/20 16:10:06 [notice] 28#28: exiting
+2024/10/20 16:10:06 [notice] 29#29: exiting
+2024/10/20 16:10:06 [notice] 33#33: exit
+2024/10/20 16:10:06 [notice] 32#32: exit
+2024/10/20 16:10:06 [notice] 30#30: exiting
+2024/10/20 16:10:06 [notice] 31#31: exit
+2024/10/20 16:10:06 [notice] 34#34: exit
+2024/10/20 16:10:06 [notice] 35#35: exiting
+2024/10/20 16:10:06 [notice] 37#37: exiting
+2024/10/20 16:10:06 [notice] 22#22: exit
+2024/10/20 16:10:06 [notice] 36#36: exit
+2024/10/20 16:10:06 [notice] 24#24: exit
+2024/10/20 16:10:06 [notice] 25#25: exit
+2024/10/20 16:10:06 [notice] 26#26: exit
+2024/10/20 16:10:06 [notice] 27#27: exit
+2024/10/20 16:10:06 [notice] 28#28: exit
+2024/10/20 16:10:06 [notice] 29#29: exit
+2024/10/20 16:10:06 [notice] 30#30: exit
+2024/10/20 16:10:06 [notice] 35#35: exit
+2024/10/20 16:10:06 [notice] 37#37: exit
+2024/10/20 16:10:06 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/10/20 16:10:06 [notice] 1#1: worker process 24 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 27 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 28 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 29 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 30 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 33 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 35 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:10:06 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/10/20 16:10:06 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/10/20 16:10:06 [notice] 1#1: worker process 23 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 26 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 31 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 32 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 34 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 36 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:10:06 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2024/10/20 16:10:06 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2024/10/20 16:10:06 [notice] 1#1: worker process 22 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 25 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: worker process 37 exited with code 0
+2024/10/20 16:10:06 [notice] 1#1: exit
+2024/10/20 16:10:07 [notice] 1#1: using the "epoll" event method
+2024/10/20 16:10:07 [notice] 1#1: nginx/1.27.2
+2024/10/20 16:10:07 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/20 16:10:07 [notice] 1#1: OS: Linux 6.10.0-linuxkit
+2024/10/20 16:10:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/20 16:10:07 [notice] 1#1: start worker processes
+2024/10/20 16:10:07 [notice] 1#1: start worker process 22
+2024/10/20 16:10:07 [notice] 1#1: start worker process 23
+2024/10/20 16:10:07 [notice] 1#1: start worker process 24
+2024/10/20 16:10:07 [notice] 1#1: start worker process 25
+2024/10/20 16:10:07 [notice] 1#1: start worker process 26
+2024/10/20 16:10:07 [notice] 1#1: start worker process 27
+2024/10/20 16:10:07 [notice] 1#1: start worker process 28
+2024/10/20 16:10:07 [notice] 1#1: start worker process 29
+2024/10/20 16:10:07 [notice] 1#1: start worker process 30
+2024/10/20 16:10:07 [notice] 1#1: start worker process 31
+2024/10/20 16:10:07 [notice] 1#1: start worker process 32
+2024/10/20 16:10:07 [notice] 1#1: start worker process 33
+2024/10/20 16:10:07 [notice] 1#1: start worker process 34
+2024/10/20 16:10:07 [notice] 1#1: start worker process 35
+2024/10/20 16:10:07 [notice] 1#1: start worker process 36
+2024/10/20 16:10:07 [notice] 1#1: start worker process 37
+2024/10/20 16:10:09 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:10:10 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:10:10 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:10:10 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:10:10 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:10:10 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:10:24 [error] 22#22: *1 "/etc/nginx/html/Nintendo/Switch/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /Nintendo/Switch/ HTTP/1.1", host: "127.0.0.1:9002"
+2024/10/20 16:10:30 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/20 16:10:30 [notice] 22#22: gracefully shutting down
+2024/10/20 16:10:30 [notice] 23#23: gracefully shutting down
+2024/10/20 16:10:30 [notice] 24#24: gracefully shutting down
+2024/10/20 16:10:30 [notice] 25#25: gracefully shutting down
+2024/10/20 16:10:30 [notice] 25#25: exiting
+2024/10/20 16:10:30 [notice] 27#27: gracefully shutting down
+2024/10/20 16:10:30 [notice] 26#26: gracefully shutting down
+2024/10/20 16:10:30 [notice] 29#29: gracefully shutting down
+2024/10/20 16:10:30 [notice] 30#30: gracefully shutting down
+2024/10/20 16:10:30 [notice] 28#28: gracefully shutting down
+2024/10/20 16:10:30 [notice] 32#32: gracefully shutting down
+2024/10/20 16:10:30 [notice] 31#31: gracefully shutting down
+2024/10/20 16:10:30 [notice] 33#33: gracefully shutting down
+2024/10/20 16:10:30 [notice] 33#33: exiting
+2024/10/20 16:10:30 [notice] 34#34: gracefully shutting down
+2024/10/20 16:10:30 [notice] 34#34: exiting
+2024/10/20 16:10:30 [notice] 35#35: gracefully shutting down
+2024/10/20 16:10:30 [notice] 35#35: exiting
+2024/10/20 16:10:30 [notice] 36#36: gracefully shutting down
+2024/10/20 16:10:30 [notice] 36#36: exiting
+2024/10/20 16:10:30 [notice] 37#37: gracefully shutting down
+2024/10/20 16:10:30 [notice] 22#22: exiting
+2024/10/20 16:10:30 [notice] 23#23: exiting
+2024/10/20 16:10:30 [notice] 24#24: exiting
+2024/10/20 16:10:30 [notice] 25#25: exit
+2024/10/20 16:10:30 [notice] 27#27: exiting
+2024/10/20 16:10:30 [notice] 26#26: exiting
+2024/10/20 16:10:30 [notice] 29#29: exiting
+2024/10/20 16:10:30 [notice] 30#30: exiting
+2024/10/20 16:10:30 [notice] 28#28: exiting
+2024/10/20 16:10:30 [notice] 32#32: exiting
+2024/10/20 16:10:30 [notice] 31#31: exiting
+2024/10/20 16:10:30 [notice] 33#33: exit
+2024/10/20 16:10:30 [notice] 34#34: exit
+2024/10/20 16:10:30 [notice] 35#35: exit
+2024/10/20 16:10:30 [notice] 36#36: exit
+2024/10/20 16:10:30 [notice] 37#37: exiting
+2024/10/20 16:10:30 [notice] 22#22: exit
+2024/10/20 16:10:30 [notice] 23#23: exit
+2024/10/20 16:10:30 [notice] 24#24: exit
+2024/10/20 16:10:30 [notice] 27#27: exit
+2024/10/20 16:10:30 [notice] 26#26: exit
+2024/10/20 16:10:30 [notice] 29#29: exit
+2024/10/20 16:10:30 [notice] 30#30: exit
+2024/10/20 16:10:30 [notice] 28#28: exit
+2024/10/20 16:10:30 [notice] 32#32: exit
+2024/10/20 16:10:30 [notice] 31#31: exit
+2024/10/20 16:10:30 [notice] 37#37: exit
+2024/10/20 16:10:30 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2024/10/20 16:10:30 [notice] 1#1: worker process 25 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 33 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:10:30 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2024/10/20 16:10:30 [notice] 1#1: worker process 22 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 26 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 23 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 24 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 27 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 28 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 34 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 35 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/20 16:10:30 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/10/20 16:10:30 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/10/20 16:10:30 [notice] 1#1: worker process 29 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 30 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 31 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 32 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 36 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: worker process 37 exited with code 0
+2024/10/20 16:10:30 [notice] 1#1: exit
+2024/10/20 16:10:31 [notice] 1#1: using the "epoll" event method
+2024/10/20 16:10:31 [notice] 1#1: nginx/1.27.2
+2024/10/20 16:10:31 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/20 16:10:31 [notice] 1#1: OS: Linux 6.10.0-linuxkit
+2024/10/20 16:10:31 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/20 16:10:31 [notice] 1#1: start worker processes
+2024/10/20 16:10:31 [notice] 1#1: start worker process 22
+2024/10/20 16:10:31 [notice] 1#1: start worker process 23
+2024/10/20 16:10:31 [notice] 1#1: start worker process 24
+2024/10/20 16:10:31 [notice] 1#1: start worker process 25
+2024/10/20 16:10:31 [notice] 1#1: start worker process 26
+2024/10/20 16:10:31 [notice] 1#1: start worker process 27
+2024/10/20 16:10:31 [notice] 1#1: start worker process 28
+2024/10/20 16:10:31 [notice] 1#1: start worker process 29
+2024/10/20 16:10:31 [notice] 1#1: start worker process 30
+2024/10/20 16:10:31 [notice] 1#1: start worker process 31
+2024/10/20 16:10:31 [notice] 1#1: start worker process 32
+2024/10/20 16:10:31 [notice] 1#1: start worker process 33
+2024/10/20 16:10:31 [notice] 1#1: start worker process 34
+2024/10/20 16:10:31 [notice] 1#1: start worker process 35
+2024/10/20 16:10:31 [notice] 1#1: start worker process 36
+2024/10/20 16:10:31 [notice] 1#1: start worker process 37
